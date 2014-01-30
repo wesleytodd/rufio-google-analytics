@@ -1,0 +1,24 @@
+{
+  "name": "rufio-google-analytics",
+  "version": "0.0.0",
+  "description": "A Rufio plugin for google analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wesleytodd/rufio-google-analytics.git"
+  },
+  "keywords": [
+    "rufio",
+    "google",
+    "analytics"
+  ],
+  "author": "Wes Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleytodd/rufio-google-analytics/issues"
+  },
+  "homepage": "https://github.com/wesleytodd/rufio-google-analytics"
+}
