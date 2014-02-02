@@ -11,7 +11,7 @@ module.exports = function(rufio) {
 				'Your `rufio.json` file should contain something like this:',
 				'{',
 					'\t"analytics": {',
-						'\t\t"code": "UA-XXXXXXXX-1"'
+						'\t\t"code": "UA-XXXXXXXX-1"',
 					'\t}',
 				'}',
 			].join('\n'));
@@ -30,7 +30,7 @@ module.exports = function(rufio) {
 				'Your `rufio.json` file should contain something like this:',
 				'{',
 					'\t"analytics": {',
-						'\t\t"code": "UA-XXXXXXXX-1"'
+						'\t\t"code": "UA-XXXXXXXX-1"',
 					'\t}',
 				'}',
 			].join('\n'));
@@ -48,7 +48,7 @@ module.exports = function(rufio) {
 				'The Google Analytics plugin requires a hostname.',
 				'Your `rufio.json` file should contain something like this:',
 				'{',
-					'\t"hostname": "my-site.com"'
+					'\t"hostname": "my-site.com"',
 				'}',
 			].join('\n'));
 		}

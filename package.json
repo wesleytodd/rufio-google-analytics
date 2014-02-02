@@ -1,6 +1,6 @@
 {
   "name": "rufio-google-analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Rufio plugin for google analytics",
   "main": "index.js",
   "scripts": {
